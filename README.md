@@ -1,3 +1,4 @@
+<img src="https://github.com/AadityaBansal01/AadityaBansal01/blob/main/github-header-image%20(1).png" alt="Banner" width="1000"/>
 ## 👋 Welcome to My GitHub Profile!
 <h2 align="left">My name is Aaditya.. </h2>
 I'm thrilled you're here! I'm a Student, exploring the world of web development, and here you'll find a collection of my projects and contributions.
