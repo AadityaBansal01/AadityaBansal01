@@ -1,4 +1,4 @@
-<img src="https://github.com/AadityaBansal01/AadityaBansal01/blob/main/github-header-image%20(1).png" alt="Banner" width="1000"/>
+<img src="https://github.com/AadityaBansal01/AadityaBansal01/blob/main/github-header-image%20(2).png" alt="Banner" width="1000"/>
  <h1>👋 Welcome to My GitHub Profile!</h1>
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=24&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Aspiring+Full+stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Upcoming+Software+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h3>
 I'm thrilled you're here! I'm a Student, exploring the world of web development, and here you'll find a collection of my projects and contributions.
