@@ -37,5 +37,4 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
   <img src="https://streak-stats.demolab.com?user=AadityaBansal01&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-### My Achievements
-[![An image of @aadityabansal01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadityabansal01)](https://holopin.io/@aadityabansal01)
+
