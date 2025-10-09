@@ -19,6 +19,10 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+
+### 🏆 Achievements
+- Achievement: Pull Shark
+- [![Holopin badges](https://holopin.me/aadityabansal01)](https://holopin.io/@aadityabansal01)
   
 ###
 <h3 align="left"> Connect with me</h3>
