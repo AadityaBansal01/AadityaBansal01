@@ -21,7 +21,7 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
   <img width="12" />
 
 ### 🏆 Achievements
-- Achievement: Pull Shark
+- ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 - [![Holopin badges](https://holopin.me/aadityabansal01)](https://holopin.io/@aadityabansal01)
   
 ###
