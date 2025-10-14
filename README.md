@@ -21,9 +21,9 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
   <img width="12" />
 
 ### 🏆 Achievements
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="120" />
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="125" />
 <a href="https://holopin.io/@aadityabansal01">
-  <img src="https://holopin.me/aadityabansal01" height="120" />
+  <img src="https://holopin.me/aadityabansal01" height="125" />
 </a>
   
 ###
