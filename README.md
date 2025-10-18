@@ -22,10 +22,14 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
 
 ### 🏆 Achievements
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="125" />
+
 <a href="https://holopin.io/@aadityabansal01">
   <img src="https://holopin.me/aadityabansal01" height="125" />
 </a>
-  
+
+<!-- Postman API Fundamentals Student Expert Badge -->
+<img width="125" height="125" alt="Postman - Postman API Fundamentals Student Expert - 2025-10-18 (1)" src="https://github.com/user-attachments/assets/2ebd5135-92a8-4a39-8a87-2d4fa74e0116" />
+
 ###
 <h3 align="left"> Connect with me</h3>
 <div align="left">
