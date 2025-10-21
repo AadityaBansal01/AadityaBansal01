@@ -27,8 +27,13 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
   <img src="https://holopin.me/aadityabansal01" height="125" />
 </a>
 
+<img width="135" height="135" alt="Postman - Postman API Fundamentals Student Expert - 2025-10-18 (1)" src="https://gssoc-tracker.netlify.app/badges/Explorer-Badge.png" />
+
 <!-- Postman API Fundamentals Student Expert Badge -->
 <img width="125" height="125" alt="Postman - Postman API Fundamentals Student Expert - 2025-10-18 (1)" src="https://github.com/user-attachments/assets/2ebd5135-92a8-4a39-8a87-2d4fa74e0116" />
+
+
+
 
 ###
 <h3 align="left"> Connect with me</h3>
