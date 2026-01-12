@@ -56,15 +56,11 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
 
 <br clear="both"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBansal01&layout=compact&theme=dracula"
+<img src="https://github-readme-stats.vercel.app/api?username=AadityaBansal01&show_icons=true&theme=dracula&cache_seconds=86400"
      height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AadityaBansal01&show_icons=true&count_private=true&theme=dracula"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBansal01&layout=compact&theme=dracula&cache_seconds=86400"
      height="150"/>
-</div>
 
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=AadityaBansal01&theme=dracula"
+<img src="https://streak-stats.demolab.com?user=AadityaBansal01&theme=dracula&cache_seconds=86400"
      height="220"/>
-</div>
