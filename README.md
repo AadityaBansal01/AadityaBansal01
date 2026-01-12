@@ -58,8 +58,7 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBansal01&layout=compact&theme=dracula"
-     height="150"
-     referrerpolicy="no-referrer"/>
+     height="150"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AadityaBansal01&show_icons=true&count_private=true&theme=dracula"
      height="150"/>
