@@ -48,10 +48,9 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
 
 <div align="left">
   <a href="https://www.linkedin.com/in/iamaadityabansal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
      height="35"
-     alt="linkedin logo"
-     referrerpolicy="no-referrer"/>
+     alt="linkedin logo"/>
   </a>
 </div>
 
@@ -63,12 +62,10 @@ I'm thrilled you're here! I'm a Student, exploring the world of web development,
      referrerpolicy="no-referrer"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AadityaBansal01&show_icons=true&count_private=true&theme=dracula"
-     height="150"
-     referrerpolicy="no-referrer"/>
+     height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AadityaBansal01&theme=dracula"
-     height="220"
-     referrerpolicy="no-referrer"/>
+ <img src="https://streak-stats.demolab.com?user=AadityaBansal01&theme=dracula"
+     height="220"/>
 </div>
