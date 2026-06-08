@@ -61,7 +61,7 @@
 
 ---
 
-###  Contribution 
+###  Contributions 
 
 ![Snake](https://raw.githubusercontent.com/AadityaBansal01/AadityaBansal01/output/github-contribution-snake-dark.svg))
 
