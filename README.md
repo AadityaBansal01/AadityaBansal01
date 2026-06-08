@@ -1,69 +1,83 @@
 <img src="https://github.com/AadityaBansal01/AadityaBansal01/blob/main/github-header-image%20(1).png" alt="Banner" width="1000"/>
 
-<h1>👋 Welcome to My GitHub Profile!</h1>
-
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=lora&size=24&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Aspiring+Full+stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Upcoming+Software+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70407&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Real+Solutions+%7C+MERN+Stack;CS+Undergrad+%40+TIET+Patiala" alt="Typing SVG"/>
   </a>
 </h3>
 
-I'm thrilled you're here! I'm a Student, exploring the world of web development, and here you'll find a collection of my projects and contributions.
-
 <img align="right" height="200" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 
-<h3 align="left">👩‍💻 About Me</h3>
+### 👨‍💻 About Me
 
-<p align="left">
-🌱 I’m currently learning: Web development (HTML, CSS, JavaScript, React.js, Tailwind CSS).<br>
-🔭 I’m working on: Building my own projects and improving my development skills.<br>
-🎯 Goals: Build an impactful web application and contribute to open-source projects
-</p>
+🔭 Currently building: **Blood Donor Finder** — hyperlocal emergency blood request platform  
+🧠 Stack: React · Node.js · Express · MongoDB · Tailwind CSS  
+🌱 Next: ML · RAG · Agentic AI  
+🔗 [LinkedIn](https://www.linkedin.com/in/iamaadityabansal)
 
-<h3 align="left">Language and tools</h3>
+---
+
+### 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
 </div>
 
-<h3>🏆 Achievements</h3>
+---
+
+### 📌 Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🩸 [Blood Donor Finder](#) | Hyperlocal emergency blood request platform | MERN · JWT · Tailwind |
+| 📅 [Smart Timetable](https://github.com/AadityaBansal01/smart-timetable) | Class schedule manager with teacher & subject management | JavaScript |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadityaBansal01&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBansal01&layout=compact&theme=dracula&hide_border=true" height="150"/>
+</div>
+
+![Streak](https://streak-stats.demolab.com?user=AadityaBansal01&theme=dracula&hide_border=true)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/AadityaBansal01/AadityaBansal01/output/github-contribution-snake-dark.svg)
+
+---
+
+### 🏆 Achievements
 
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="125"/>
+<a href="https://holopin.io/@aadityabansal01"><img src="https://holopin.me/aadityabansal01" height="125"/></a>
+<img src="https://gssoc-tracker.netlify.app/badges/Explorer-Badge.png" height="125"/>
+<img src="https://github.com/user-attachments/assets/2ebd5135-92a8-4a39-8a87-2d4fa74e0116" height="125"/>
 
-<a href="https://holopin.io/@aadityabansal01">
-  <img src="https://holopin.me/aadityabansal01" height="125"/>
+---
+
+### 🔗 Connect
+
+<a href="https://www.linkedin.com/in/iamaadityabansal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
 </a>
-
-<img width="135" height="135" src="https://gssoc-tracker.netlify.app/badges/Explorer-Badge.png"/>
-
-<img width="125" height="125" src="https://github.com/user-attachments/assets/2ebd5135-92a8-4a39-8a87-2d4fa74e0116"/>
-
-<h3 align="left">Connect with me</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/iamaadityabansal" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-     height="35"
-     alt="linkedin logo"/>
-  </a>
-</div>
-
-
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aadityabansal01&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityabansal01&layout=compact&theme=dracula&hide_border=true" height="150"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=aadityabansal01&theme=dracula&hide_border=true" height="220"/>
